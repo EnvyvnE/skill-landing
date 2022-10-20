@@ -1,0 +1,4 @@
+.carousel__list-tab_active {
+    color:rgba(227, 184, 115, 1);
+    text-decoration: underline;
+}

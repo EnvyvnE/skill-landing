@@ -1,0 +1,16 @@
+.lead__button {
+    display: inline-block;
+    color: rgba(255, 255, 255, 1);
+    border: 1px solid #FFFFFF;
+    border-radius: 2px;
+    padding:19px 22px;
+}
+.lead__button:first-of-type {
+    margin-right: 20px;
+    margin-left: 134px;
+}
+.lead__button:hover {
+    background: #E3B873;
+    border: 1px solid #E3B873;
+
+}

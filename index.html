@@ -4,41 +4,86 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/style.css" />
     <title>Repair Design Project</title>
   </head>
   <body>
-    <header>
-      <img class="header__logo" src="" alt="IC Repair Design Project" />
-      <nav class="header__nav">
-        <ul class="header__links">
-          <li><a class="header__list-tab" href="">HOME</a></li>
-          <li><a class="header__list-tab" href="">PROJECTS</a></li>
-          <li><a class="header__list-tab" href="">MEASUREMENT</a></li>
-          <li><a class="header__list-tab" href="">TEAM</a></li>
-          <li><a class="header__list-tab" href="">REVIEWS</a></li>
-          <li><a class="header__list-tab" href="">CONTACTS</a></li>
-        </ul>
-      </nav>
-      <section>
-        <a class="header__phone" href="tel:+79287683239" type="phone">+7(928)7683239</a>
-        <button type="button">request a call</button>
-      </section>
-    </header>
-    <main>
+    <div class="wrapper">
+      <header calss="header">
+        <p class="header__logo">IC "Repair Design Project"</p>
+        <nav class="header__nav">
+          <ul class="header__links">
+            <li class="header__list">
+              <a class="header__list-tab" href="">HOME</a>
+            </li>
+            <li class="header__list">
+              <a class="header__list-tab" href="">PROJECTS</a>
+            </li>
+            <li class="header__list">
+              <a class="header__list-tab" href="">MEASUREMENT</a>
+            </li>
+            <li class="header__list">
+              <a class="header__list-tab" href="">TEAM</a>
+            </li>
+            <li class="header__list">
+              <a class="header__list-tab" href="">REVIEWS</a>
+            </li>
+            <li class="header__list">
+              <a class="header__list-tab" href="">CONTACTS</a>
+            </li>
+          </ul>
+        </nav>
+        <section class="header__contacts">
+          <a class="header__phone" href="tel:+79287683239" type="phone"
+            >+7(928)7683239</a
+          >
+          <a class="header__btn-call">request a call</a>
+        </section>
+      </header>
+      <main class="main">
         <section class="lead">
-<h1 class="lead__title">Turnkey Repair in the 
-    city of Rostov-on-Don</h1>
-<p class="lead__subtitle">Get ready-made turnkey repairs on time
-    with work time saving up to 45 days and 20% from
-    cost of materials due to the organization of work</p>
-<button class="lead__button" type="button">CALCULATE THE COST</button>
-<button class="lead__button" type="button">SUBMIT YOUR APPLICATION</button>
+          <div class="lead__cover">
+            <h1 class="lead__title">
+              Turnkey Repair in the <br />
+              city of <span class="lead__title_highlighted">Rostov-on-Don</span>
+            </h1>
+            <p class="lead__subtitle">
+              Get ready-made turnkey repairs on time with work time saving up to
+              45 days and 20% from cost of materials due to the organization of
+              work
+            </p>
+            <a class="lead__button" type="button">CALCULATE THE COST</a>
+            <a class="lead__button" type="button">SUBMIT YOUR APPLICATION</a>
+          </div>
         </section>
         <section class="carousel">
-<h2></h2>
-<p></p>
+          <nav class="carousel__nav">
+            <ul class="carousel__links">
+              <li class="carousel__list">
+                <a class="carousel__list-tab carousel__list-tab_active" >Rostov-on-Don, Admiral</a>
+              </li>
+              <li class="carousel__list">
+                <a class="carousel__list-tab">Sochi Thieves</a>
+              </li>
+              <li class="carousel__list">
+                <a class="carousel__list-tab">Rostov-on-Don Patriotic</a>
+              </li>
+            </ul>
+          </nav>
+          <div class="carousel__about">
+            <img class="carousel__image" src="./image/carousel.jpg" alt="превью аппартоментов"/>
+            <div class="carousel__description">
+            <h2 class="carousel__title">Completed projects</h2>
+            <p class="carousel__subtitle">
+              Only a small part of the work performed by our company is
+              presented on the site. For 14 years on in the construction market
+              we have made happy more than 1000 families
+            </p>
+          </div>
+          </div>
         </section>
-    </main>
-    <footer></footer>
+      </main>
+      <footer></footer>
+    </div>
   </body>
 </html>

@@ -1,0 +1,21 @@
+.header__btn-call {
+    color: rgba(255, 255, 255, 1);
+    border: 1px solid #FFFFFF;
+    border-radius: 2px;
+    padding: 13px 33px;
+    margin-left: 45px;
+}
+
+.header__btn-call {
+    display: inline-block;
+    color: rgba(255, 255, 255, 1);
+    border: 1px solid #FFFFFF;
+    border-radius: 2px;
+    padding:19px 22px;
+}
+
+.header__btn-call:hover {
+    background: #E3B873;
+    border: 1px solid #E3B873;
+
+}
