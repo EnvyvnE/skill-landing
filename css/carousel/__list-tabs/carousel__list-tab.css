@@ -1,7 +1,10 @@
 .carousel__list-tab {
     color:rgba(255, 255, 255, 0.3);
-font-size: 14px;
-font-weight: 400;
-line-height: 19px;
+    font-family: Yeseva One;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;   
 margin-right: 60.5px;
+text-transform: uppercase;
 }

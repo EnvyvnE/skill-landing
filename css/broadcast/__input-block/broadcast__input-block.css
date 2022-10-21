@@ -1,0 +1,7 @@
+.broadcast__input-block {
+    display: inline-block;
+    vertical-align: center;
+}
+.broadcast__input-block:first-of-type{
+    margin-right: 58px;
+}   

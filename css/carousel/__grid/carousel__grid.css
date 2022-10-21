@@ -1,0 +1,7 @@
+.carousel__grid{
+    display: grid;
+    max-width: 442px;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap:34px ;
+}

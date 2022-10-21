@@ -1,0 +1,6 @@
+.broadcast__checkbox-block{
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}

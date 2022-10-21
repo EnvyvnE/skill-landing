@@ -1,4 +1,7 @@
 .carousel__about {
     display: flex;
     flex-direction: row-reverse;
+    max-width: 1171px;
+    margin: 0 auto;
+    justify-content: space-between;
 }

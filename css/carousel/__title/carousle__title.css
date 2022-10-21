@@ -1,0 +1,12 @@
+.carousel__title {
+    font-family: Yeseva One;
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 37px;
+    letter-spacing: -0.07em;
+    
+color: rgba(227, 184, 115, 1);
+text-transform: uppercase;
+max-width: 253px;
+margin-bottom: 0px;
+}
