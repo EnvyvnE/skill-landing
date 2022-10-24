@@ -21,3 +21,32 @@ letter-spacing: 0em;
     border: 1px solid #E3B873;
 
 }
+
+@media screen and  (max-width:1301px) {
+    .lead__button:first-of-type {
+        margin: 0;
+        margin-left: 18px;
+        margin-top: 45px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+      }
+    .lead__button {
+        font-family: Nunito Sans;
+        font-size: 11px;
+        font-style: italic;
+        font-weight: 400;
+        line-height: 15px;
+        letter-spacing: 0em;
+        text-align: center;
+        padding: 0;
+        width: 338px;
+        height: 51px;
+        margin-left:18px;
+        margin-top: 26px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    } 
+    
+    }

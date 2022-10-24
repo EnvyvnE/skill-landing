@@ -1,0 +1,6 @@
+.repair__request {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-top: 184px;
+}

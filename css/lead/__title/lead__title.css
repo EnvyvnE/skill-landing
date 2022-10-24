@@ -12,3 +12,16 @@ padding-top: 194px;
 text-transform: uppercase;
 margin-bottom: 0px;
 }
+@media screen and  (max-width:1301px) {
+    .lead__title {
+        font-family: 'Yeseva One';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 23px;
+        line-height: 132.83%;
+        /* or 31px */
+        text-transform: uppercase;
+        margin-left: 25px;
+        padding-top: 85px;
+    } 
+    }

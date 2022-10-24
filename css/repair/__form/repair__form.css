@@ -1,0 +1,8 @@
+.repair__form {
+    background-color: rgba(19, 19, 19, 1);
+    width: 506px;
+    height: 509px;
+    margin-top: 110px;
+    display: flex;
+    flex-direction: column;
+}

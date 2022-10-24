@@ -1,0 +1,10 @@
+.artstyle {
+    background-image: url('../../image/artstyle-bg.png');
+    background-repeat: repeat;
+    width: auto;
+    min-height: 864px;
+    margin-top: 152px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}

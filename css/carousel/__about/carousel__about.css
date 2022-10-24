@@ -5,3 +5,10 @@
     margin: 0 auto;
     justify-content: space-between;
 }
+
+@media screen and  (max-width:1301px) {
+    .carousel__about{
+        flex-direction: column-reverse;
+    }
+    
+    }

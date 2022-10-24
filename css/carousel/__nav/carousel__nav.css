@@ -5,3 +5,10 @@
     list-style: none;
     margin-right: 130.05px;
 }
+@media screen and  (max-width:1301px) {
+    .carousel__nav{
+margin: 0;
+padding: 0;
+display: none;
+    } 
+    }

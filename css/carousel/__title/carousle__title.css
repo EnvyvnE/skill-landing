@@ -10,3 +10,10 @@ text-transform: uppercase;
 max-width: 253px;
 margin-bottom: 0px;
 }
+
+@media screen and  (max-width:1301px) {
+    .carousel__title{
+margin: 0 auto;
+padding: 0;
+    } 
+    }

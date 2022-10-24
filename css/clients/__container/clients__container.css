@@ -1,0 +1,16 @@
+.clients__container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background: transparent;
+  margin-top: 39px;
+  gap: 54px;
+  position: relative;
+  min-height: 428px;
+}
+.clients__container2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  background: transparent;
+}

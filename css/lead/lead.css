@@ -2,3 +2,10 @@
 background-image: url('../../image/lead.jpg');
 min-height: 707px;
 }
+
+@media screen and  (max-width:1301px) {
+    .lead {
+        background-image: url('../../image/lead.jpg');
+        max-height: 476px;
+    } 
+    }

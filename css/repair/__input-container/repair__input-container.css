@@ -1,0 +1,9 @@
+.repair__input-contrainer{
+    margin-top: 40px;
+    display: inline-block;
+    vertical-align: center;
+    padding-left: 49px;
+}
+.repair__input-contrainer:first-child{
+    margin-top: 40px;
+}

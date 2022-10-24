@@ -1,0 +1,15 @@
+.question__address {
+    position: relative;
+    z-index: 4;
+    font-family: Yeseva One;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(227, 184, 115, 1);
+    padding-top: 274px;
+    width: 589px;
+    margin: 0 auto;
+    text-transform: uppercase;
+}

@@ -1,0 +1,16 @@
+.question {
+    background-image: url('././../../image/question-bg.jpg');
+    min-height: 953px;
+    position: relative;
+    z-index: 1;
+    margin-top: 350px;
+}
+.question__cover {
+ position: absolute;
+ top: 0;
+ left: 0;
+ right: 0;
+ bottom: 0;
+ background-color: rgba(24, 24, 24, 0.9);
+ z-index: 2;
+}

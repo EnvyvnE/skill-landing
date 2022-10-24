@@ -1,0 +1,9 @@
+.repair__desc {
+    position: absolute;
+    background-color: white;
+    width: 330px;
+    height: 286px;
+    z-index: 2;
+    bottom:-150px;
+    left:60px;
+}

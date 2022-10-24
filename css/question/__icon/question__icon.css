@@ -1,0 +1,14 @@
+.question__icon{
+    padding-top: 28px;
+    position: relative;
+    z-index: 4;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.question__map {
+    position: relative;
+    z-index: 4;
+    margin-left: 257px;
+    margin-top: 43px;
+}

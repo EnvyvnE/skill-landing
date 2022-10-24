@@ -9,3 +9,16 @@
 padding-left: 134px;
 margin-top: 19px;
 }
+
+@media screen and  (max-width:1301px) {
+    .lead__subtitle {
+        font-family: 'Nunito Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 135.84%;
+        /* or 19px */
+        padding: 0;
+        margin-left: 18px;
+    } 
+    }

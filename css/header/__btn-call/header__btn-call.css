@@ -1,29 +1,32 @@
 .header__btn-call {
-    font-family: Nunito Sans;
-font-size: 11px;
-font-style: italic;
-font-weight: 400;
-line-height: 15px;
-letter-spacing: 0em;
-
-    color: rgba(255, 255, 255, 1);
-    border: 1px solid #FFFFFF;
-    border-radius: 2px;
-    padding: 13px 33px;
-    margin-left: 45px;
-    text-transform: uppercase;
+  font-family: Nunito Sans;
+  font-size: 11px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  color: rgba(255, 255, 255, 1);
+  border: 1px solid #ffffff;
+  border-radius: 2px;
+  padding: 13px 33px;
+  margin-left: 45px;
+  text-transform: uppercase;
 }
 
 .header__btn-call {
-    display: inline-block;
-    color: rgba(255, 255, 255, 1);
-    border: 1px solid #FFFFFF;
-    border-radius: 2px;
-    padding:19px 22px;
+  display: inline-block;
+  color: rgba(255, 255, 255, 1);
+  border: 1px solid #ffffff;
+  border-radius: 2px;
 }
 
 .header__btn-call:hover {
-    background: #E3B873;
-    border: 1px solid #E3B873;
-
+  background: #e3b873;
+  border: 1px solid #e3b873;
 }
+
+@media screen and  (max-width:1301px) {
+  .header__btn-call {
+      display: none;
+  } 
+  }

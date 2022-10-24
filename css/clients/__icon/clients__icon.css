@@ -1,0 +1,26 @@
+.clients__icon{
+    margin: 12.79px auto 31.21px;
+    display: block;
+    justify-content: center;
+    position: relative;
+}
+.clients__icon:before{
+    display: block;
+    width:1000px;
+    height: 1px; 
+    content: ''; 
+    position: absolute;            
+    border-bottom: 1px solid rgba(227, 184, 115, 1);
+    top:50%;
+    right: 110px;
+}
+.clients__icon:after {
+    display: block;
+    width:1000px;
+    content: '';
+    position: absolute;
+    border-bottom: 1px solid rgba(227, 184, 115, 1);
+    top:50%;
+    left: 110px;
+    height: 1px; 
+}

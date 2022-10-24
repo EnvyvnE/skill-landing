@@ -1,0 +1,13 @@
+.question__input-container {
+    display: inline-block;
+    vertical-align: center;
+}
+.question__container-block:first-of-type{
+    margin-right: 58px;
+}   
+.question__input-container_long {
+    margin-top: 48px;
+    display: block;
+   margin-left:239px;
+   width: 405px;
+}
