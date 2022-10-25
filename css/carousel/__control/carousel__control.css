@@ -1,3 +1,7 @@
-.carousel__control{
-    
-}
+
+@media screen and  (max-width:1301px) {
+    .carousel__control{
+display: none;   
+
+    } 
+    }

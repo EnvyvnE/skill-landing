@@ -12,3 +12,23 @@
     margin-left: 257px;
     margin-top: 43px;
 }
+
+@media screen and  (max-width:1301px) {
+    .question__map {
+        position: absolute;
+        z-index: 4;
+        max-width: 340px;
+        margin: 0 auto;
+        object-fit: cover;
+        object-position: top bottom;
+        min-height: 300px;
+        bottom: 140px;
+        left:15px
+    }
+    .question__icon{
+        position: absolute;    
+        bottom: 7px;
+        left: 155px;
+        padding:0px;
+}
+    }

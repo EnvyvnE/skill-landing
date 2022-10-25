@@ -17,3 +17,34 @@ margin-top: -100px;
 .grid3{
 margin-top: -330px;
 }
+.grid5{
+ display: none;
+    }
+
+@media screen and  (max-width:1301px) {
+    .artstyle__grid{
+        margin: 0;
+        display: flex;
+        position: relative;
+    }
+    .grid1 {
+        display: none;
+    }
+    .grid2{
+        display: none;
+    }
+    .grid3{
+        display: none;
+    }
+    .grid4{
+        display: none;
+    }
+    .grid5{
+        display: inline-block;
+        width: 340px;
+        height: 242px;
+        position: absolute;
+        top: 280px;
+        right: 4px;
+    }
+    }

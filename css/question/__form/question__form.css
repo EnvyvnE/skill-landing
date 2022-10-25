@@ -14,3 +14,23 @@
     flex-direction: row;
     gap: 58px;
 }
+
+@media screen and  (max-width:1301px) {
+    .question__form {
+        width: 375px;
+    display: inline-block;
+    position: relative;
+    top: 0;
+    right: 0;
+        
+    } 
+    .question__flex {
+        width: 340px;
+        margin: 0 auto;
+        margin-top: 45px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+
+    }
+    }

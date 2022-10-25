@@ -14,3 +14,11 @@ text-align: center;
 color:rgba(255, 255, 255, 1);
 text-transform: uppercase;
 }
+
+@media screen and  (max-width:1301px) {
+    .question__button {
+        margin: 0;
+       margin-left:83px;
+       margin-top: 20px;
+    }
+    }

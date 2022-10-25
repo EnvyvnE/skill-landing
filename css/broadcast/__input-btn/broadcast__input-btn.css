@@ -12,3 +12,24 @@
     letter-spacing: 0em;
     
 }
+
+@media screen and  (max-width:1301px) {
+    .broadcast__input-btn {
+        padding: 0;
+        position: absolute;
+        top:185px;
+        left: -30px;
+        width: 340px;
+        height: 51px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-family: Nunito Sans;
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 27px;
+        letter-spacing: 0em;
+        text-align: center;
+
+    } 
+    }

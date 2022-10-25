@@ -11,3 +11,11 @@
    margin-left:239px;
    width: 405px;
 }
+
+@media screen and  (max-width:1301px) {
+    .question__input-container_long {
+       width: 340px;
+       margin: 0 auto;
+        margin-top: 60px;
+    }
+    }

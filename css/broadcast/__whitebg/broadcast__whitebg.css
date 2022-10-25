@@ -2,3 +2,10 @@
     background-color: white;
 
 }
+
+@media screen and  (max-width:1301px) {
+    .broadcast__whitebg {
+
+       background-color: #131313;
+    } 
+    }

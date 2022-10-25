@@ -1,3 +1,11 @@
 .broadcast {
     margin-top: -416px;
 }
+
+@media screen and  (max-width:1301px) {
+    .broadcast{
+margin: 0;
+padding-top: 58px;
+background-color: #131313;
+    } 
+    }

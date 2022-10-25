@@ -6,3 +6,9 @@ line-height: 23px;
 letter-spacing: 0em;
 margin-left: 8.62px;
 }
+
+@media screen and  (max-width:1301px) {
+    .broadcast__checkbox-label{
+color: rgba(255, 255, 255, 1);
+    } 
+    }

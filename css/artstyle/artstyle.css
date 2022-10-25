@@ -8,3 +8,9 @@
     justify-content: space-between;
     position: relative;
 }
+@media screen and  (max-width:1301px) {
+    .artstyle {
+        background-image: none;
+        min-height: auto;
+    } 
+    }

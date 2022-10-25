@@ -1,3 +1,9 @@
 .artstyle__types{
     margin-left: 99px;
 }
+
+@media screen and  (max-width:1301px) {
+    .artstyle__types {
+        margin-left: 18px;
+    } 
+    }

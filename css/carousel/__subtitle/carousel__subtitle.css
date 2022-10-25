@@ -8,3 +8,18 @@
 color: rgba(255, 255, 255, 1);
 max-width: 442px;
 }
+
+@media screen and  (max-width:1301px) {
+    .carousel__subtitle{
+margin: 0 auto;
+padding: 0;
+font-family: Nunito Sans;
+font-size: 11px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: center;
+padding-top: 22px;
+
+    } 
+    }

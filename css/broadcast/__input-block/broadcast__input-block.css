@@ -5,3 +5,9 @@
 .broadcast__input-block:first-of-type{
     margin-right: 58px;
 }   
+@media screen and  (max-width:1301px) {
+    .broadcast__input-block{
+        max-width: 100%;
+
+    } 
+    }

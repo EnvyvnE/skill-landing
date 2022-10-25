@@ -11,3 +11,19 @@ font-weight: 400;
 line-height: 23px;
 letter-spacing: 0em;
 }
+@media screen and  (max-width:1301px) {
+    .broadcast__input-field{
+     background-color: transparent;
+     color:rgba(255, 255, 255, 1);
+     border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+     width: 100%;
+     max-width: 340px;
+     font-family: Nunito Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+
+    } 
+    }

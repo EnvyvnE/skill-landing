@@ -14,3 +14,8 @@
   justify-content: flex-start;
   background: transparent;
 }
+@media screen and  (max-width:1301px) {
+  .clients__container {
+display: none;
+  } 
+  }

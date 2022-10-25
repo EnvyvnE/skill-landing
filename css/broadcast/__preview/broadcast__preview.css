@@ -6,3 +6,13 @@ height: 434px;
 margin: 0 auto;
 
 }
+
+@media screen and  (max-width:1301px) {
+    .broadcast__preview{
+        background-image: url('../../../image/mb-2.jpg');
+        width: 340px;
+        height: 207px;
+        object-fit:contain;
+        object-position: bottom top;
+    } 
+    }

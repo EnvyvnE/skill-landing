@@ -10,3 +10,9 @@
     max-width: 350px;
     margin-top: 137.47px;
 }
+
+@media screen and  (max-width:1301px) {
+    .artstyle__title {
+        text-align: center;
+    } 
+    }

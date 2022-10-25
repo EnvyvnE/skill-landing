@@ -17,3 +17,9 @@ display: flex;
 align-items: center;
 justify-content: space-around;
 }
+@media screen and  (max-width:1301px) {
+    .repair__subtitle {
+        top:534px ;
+        left: 18px;
+    } 
+    }

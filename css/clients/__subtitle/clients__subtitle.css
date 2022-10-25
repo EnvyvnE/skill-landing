@@ -9,3 +9,9 @@
     max-width: 426px;
     margin: 0 auto;
 }
+
+@media screen and  (max-width:1301px) {
+    .clients__subtitle {
+  display: none;
+    } 
+    }

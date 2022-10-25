@@ -4,3 +4,13 @@
     justify-content: center;
     flex-direction: row;
 }
+
+@media screen and  (max-width:1301px) {
+    .broadcast__checkbox-block{
+margin: 0;
+margin-top: 26.5px;
+margin-left: -10px;
+margin-bottom: 50px;
+justify-content: flex-start;
+    } 
+    }

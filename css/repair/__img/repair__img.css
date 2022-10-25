@@ -4,3 +4,10 @@
     padding-left: 34px;
 
 }
+@media screen and  (max-width:1301px) {
+    .repair__img {
+       padding: 0;
+       max-width:340px ;
+       padding-left: 18px;
+    } 
+    }

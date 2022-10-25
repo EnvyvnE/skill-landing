@@ -7,3 +7,16 @@
 color: rgba(227, 184, 115, 1);
 text-transform: uppercase;
 }
+
+@media screen and  (max-width:1301px) {
+    .carousel__grid-title{
+        font-family: Yeseva One;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 19px;
+        letter-spacing: 0em;
+        text-align: left;
+        
+
+    } 
+    }

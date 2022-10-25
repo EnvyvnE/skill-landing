@@ -1,4 +1,14 @@
-.broadcast__form{
+.broadcast__form {
     width: 769px;
     margin: 0 auto;
 }
+
+@media screen and  (max-width:1301px) {
+    .broadcast__form{
+        max-width: 100%;
+        position: relative;
+        margin-left: 18px;
+        display: flex;
+        flex-direction: column;
+    } 
+    }
